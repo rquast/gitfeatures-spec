@@ -1,3 +1,8 @@
+- key: oQI8vcYh2f-gKGvbPPvlC
+  type: map
+  title: 💔
+  expanded: true
+  children: []
 - key: Xhn9Hs_Qqw2nDTpDEcy-5
   type: folder
   title: GitFeatures 💡
@@ -6,7 +11,7 @@
     - key: m32ynIuVMOOdkGeI-WVIn
       type: folder
       title: Specification By Example 🎓
-      expanded: false
+      expanded: true
       children:
         - key: fCRXKhxQU0B2FFk0iU0Hs
           type: feature
