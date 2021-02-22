@@ -1,0 +1,15 @@
+- key: 0usITQbvtl5IgUbS2ZoSW
+  type: story
+  title: Saving a README.md
+  expanded: true
+  children:
+    - key: HyRC8VRSoPmM_XI3i-YM5
+      type: rule
+      title: On save, generate documentation
+      expanded: true
+      children:
+        - key: pcT0Zpg9GyIF_RLJ3u-ps
+          type: example
+          title: README.md has link that loads up the current repo in GitFeatures
+          expanded: true
+          children: []

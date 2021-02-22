@@ -1,0 +1,16 @@
+### Helping you deliver the right software.
+A centralised living specification development tool for guiding the industry through the basic steps of specification by example (BDD), continuous integration (CI) and continuous delivery (CD) that utilises feature feedback.
+
+#### Who is GitFeatures for?
+Any product owner/manager, developer, tester, UX designer ([Four Amigos](https://medium.com/@daviddenham07/ux-the-fourth-amigo-63d10f506908)) or for anyone who is involved with analysing software requirements - at any scale.
+
+#### Why?
+Once upon a time, senior management in a big organisation decided to spend some of their capital expenditure funds. Bob the manager, recently back from his Digital Transformation conference, was singing praises about social media engagement platforms. He thought it would be a good way to improve customer relationships. They all agreed and the project was approved.
+
+Once the project started, every day, everyone would sit in meeting after meeting for planning and status updates. Like many fake agile projects, they'd spend countless hours on multiple stages of manual tests. They'd dump all of their specifications into an internal, wiki-like documentation system that became hard to maintain. Frequently, specifications would differ greatly from the implementation. 
+
+One day, a major feature in the project was completed and a demo was given to stakeholders. The product owner was very impressed. However, key stakeholders who rarely attended demos piped up and said there was no involvement from their team and the feature cannot go ahead in its current form. Several months later the code was fixed, only for the team to then be confronted by another stakeholder derailing the project for a year. When the project started again, it was rushed to be "finished" because senior management announced its [imminent release](https://www.youtube.com/watch?v=5p8wTOr8AbU). Unfortunately, little thought was given to who would run the software, so they gave it to the marketing department. The buggy software had little impact on improving customer perception. The head of marketing stated that they'd never have wanted a social media engagement product since most of their customers don't use social media. The project was a failure and cost tens of millions of dollars. The IT department's name was dirt.
+
+Until finally, a small team within the IT department decided to show how out-of-touch management were. They set about the task of creating a public relations contact management system using GitFeatures. They performed their own needs analysis which involved contacting stakeholders and gaining correct examples by making use of example mapping. They released an early beta to test each feature and validated the hypothesis for every feature delivered. It was a success, and because it was run under an operational budget, it continued to grow and stay maintained without a premature end. The system rarely had bugs thanks to it being test and behaviour driven. The project was delivered within weeks and cost tens of thousands of dollars.  
+
+Now the IT department is the engine room of innovation for the organisation. It rarely uses consultancies or contractors. It has larger operational budgets - all because team members used a tool that guided them through the process for delivering the *right* software.

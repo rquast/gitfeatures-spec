@@ -1,0 +1,10 @@
+- key: N123Nxy96jXlgcyz-h6rh
+  type: story
+  title: Add your first story here ...
+  expanded: true
+  children:
+    - key: 6tnzZd5E3Xfs6IBzgS4xF
+      type: rule
+      title: A user must be able to draw with a stylus
+      expanded: true
+      children: []

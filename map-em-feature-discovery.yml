@@ -1,0 +1,28 @@
+- key: hH4Hr4FgjdHcQmZV6PjsJ
+  type: story
+  title: A user wants to create an example map
+  expanded: true
+  children:
+    - key: kIvxKm_aOFyNIBNjGQyxL
+      type: rule
+      title: User clicks on actions button
+      expanded: true
+      children:
+        - key: LtNCoO2L0G6pNIaORtS2b
+          type: example
+          title: A load button appears
+          expanded: true
+- key: T5I8zxFqRzyagznehr4AM
+  type: story
+  title: A user wants to create a specification
+  expanded: true
+  children:
+    - key: s2xus4mQUB3JP80EQGQql
+      type: rule
+      title: User clicks on actions button
+      expanded: true
+      children:
+        - key: HRoS0SCYwwgKrc2VfCikH
+          type: question
+          title: Should use a mindmap instead?
+          expanded: true
