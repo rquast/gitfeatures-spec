@@ -1,8 +1,3 @@
-- key: oQI8vcYh2f-gKGvbPPvlC
-  type: map
-  title: 💔
-  expanded: true
-  children: []
 - key: Xhn9Hs_Qqw2nDTpDEcy-5
   type: folder
   title: GitFeatures 💡
@@ -17,6 +12,12 @@
           type: feature
           title: Living Specification 📖
           expanded: true
+          children:
+            - key: oQI8vcYh2f-gKGvbPPvlC
+              type: map
+              title: 💔
+              expanded: true
+              children: []
         - key: qe3REF0C6RxYA9WAeffLC
           type: feature
           title: Example Mapping 🧭
