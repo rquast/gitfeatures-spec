@@ -12,12 +12,7 @@
           type: feature
           title: Living Specification 📖
           expanded: true
-          children:
-            - key: oQI8vcYh2f-gKGvbPPvlC
-              type: map
-              title: 💔
-              expanded: true
-              children: []
+          children: []
         - key: qe3REF0C6RxYA9WAeffLC
           type: feature
           title: Example Mapping 🧭
