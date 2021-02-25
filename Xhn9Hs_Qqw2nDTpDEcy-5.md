@@ -16,3 +16,7 @@ One day, a major feature in the project was completed and a demo was given to st
 Until finally, a small team within the IT department decided to show how out-of-touch management were. They set about the task of creating a public relations contact management system using GitFeatures. They performed their own needs analysis which involved contacting stakeholders and gaining correct examples by making use of example mapping. They released an early beta to test each feature and validated the hypothesis for every feature delivered. It was a success, and because it was run under an operational budget, it continued to grow and stay maintained without a premature end. The system rarely had bugs thanks to it being test and behaviour driven. The project was delivered within weeks and cost tens of thousands of dollars.  
 
 Now the IT department is the engine room of innovation for the organisation. It rarely uses consultancies or contractors. It has larger operational budgets - all because team members used a tool that guided them through the process for delivering the *right* software.
+
+
+#### How to use GitFeatures
+Follow this [quick-start tutorial](https://perilogy.com/gitfeatures/quick-start). There is also [course content](https://perilogy.com/gitfeatures/courses) and [training events](https://perilogy.com/gitfeatures/events) to help you master the art of quality software development.
