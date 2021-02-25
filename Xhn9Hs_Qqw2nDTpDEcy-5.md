@@ -1,5 +1,3 @@
-... an open-source tool from **[PERILOGY](https://perilogy.com)**
-
 ---
 
 ### Helping you deliver the right software
