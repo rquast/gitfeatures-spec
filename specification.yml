@@ -16,7 +16,7 @@
         - key: qe3REF0C6RxYA9WAeffLC
           type: feature
           title: Example Mapping 🧭
-          expanded: true
+          expanded: false
           children:
             - key: em-feature-discovery
               type: map
@@ -44,7 +44,7 @@
         - key: ZhrouGBPgRenet4_rlSVM
           type: feature
           title: Sketching Component
-          expanded: true
+          expanded: false
           children:
             - key: O3hs3FRJt-F4IE5KysJVR
               type: map
