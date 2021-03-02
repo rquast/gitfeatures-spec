@@ -1,6 +1,6 @@
 - key: Xhn9Hs_Qqw2nDTpDEcy-5
   type: folder
-  title: GitFeatures 💡change the title
+  title: GitFeatures 💡
   expanded: true
   children:
     - key: m32ynIuVMOOdkGeI-WVIn
@@ -16,7 +16,7 @@
         - key: qe3REF0C6RxYA9WAeffLC
           type: feature
           title: Example Mapping 🧭
-          expanded: false
+          expanded: true
           children:
             - key: em-feature-discovery
               type: map
@@ -44,7 +44,7 @@
         - key: ZhrouGBPgRenet4_rlSVM
           type: feature
           title: Sketching Component
-          expanded: false
+          expanded: true
           children:
             - key: O3hs3FRJt-F4IE5KysJVR
               type: map
