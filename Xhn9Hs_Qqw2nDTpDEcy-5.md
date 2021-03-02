@@ -1,6 +1,6 @@
 ---
 
-### Helping you deliver the right software. Testing!
+### Helping you deliver the right software.
 GitFeatures is a centralised living specification development tool for guiding the industry through the basic steps of specification by example (BDD), continuous integration (CI) and continuous delivery (CD) that utilises feature feedback.
 
 #### Who is GitFeatures for?
