@@ -1,5 +1,5 @@
 ### Helping you deliver the right software.
-GitFeatures is a tool for formulating, managing and proving **acceptance criteria**. It does this by guiding the industry through the basic steps of specification by example (BDD), continuous integration (CI) and continuous delivery (CD) that utilises feature feedback.
+GitFeatures is a tool for formulating (with example mapping), managing (with Git tagging) and proving (with feature toggles) **acceptance criteria**. It does this by guiding you through the basic steps of specification by example (SBE/BDD), continuous delivery (CD) and validation of features.
 
 #### Who is GitFeatures for?
 Any product owner/manager, developer, tester, UX designer ([Four Amigos](https://medium.com/@daviddenham07/ux-the-fourth-amigo-63d10f506908)) or for anyone who is involved with analysing software requirements - at any scale.
