@@ -22,9 +22,7 @@
               type: map
               title: Creating an Example Map
               expanded: true
-              tags:
-                - Roland Quast
-                - Mary Jones
+              tags: []
         - key: uz1NLo4n4xpgJTQOA437S
           type: feature
           title: Acceptance Criteria ✅
