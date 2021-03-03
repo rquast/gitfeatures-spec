@@ -22,6 +22,10 @@
               type: map
               title: Creating an Example Map
               expanded: true
+              tags:
+                - Roland Quast
+                - John Smith
+                - Mary Jones
         - key: uz1NLo4n4xpgJTQOA437S
           type: feature
           title: Acceptance Criteria ✅
