@@ -5,7 +5,7 @@ GitFeatures is a tool for formulating (with example mapping), iterating (with Gi
 Any product owner/manager, developer, tester, UX designer ([Four Amigos](https://medium.com/@daviddenham07/ux-the-fourth-amigo-63d10f506908)) or for anyone who is involved with analysing software requirements - at any scale.
 
 #### Why?
-Once upon a time, the Senior Management Group (SMG) in a big organisation decided to spend some of their capital expenditure funds. Bob the manager, who recently attended the "Digital Transformation Professionals" conference, was singing praises about social media engagement platforms. "With this money, we could build a game changing way to improve customer relationships.", he thought. Finally, after months of goading his peers, he convinced SMG to fund his idea.
+Once upon a time, the Senior Management Group (SMG) in a big organisation secured capital expenditure funds for improvements. Bob the manager, who recently attended the "Digital Transformation Professionals" conference, was singing praises about social media engagement platforms. "With this money, we could build a game changing way to improve customer relationships.", he thought. Finally, after months of goading his peers, he convinced SMG to fund his idea.
 
 Once the project started, every day, everyone would sit in meeting after meeting for planning and status updates. Like many fake agile projects, they'd spend countless hours on multiple stages of manual tests. They'd dump all of their specifications into an internal, wiki-like documentation system that became hard to maintain. Frequently, specifications would differ greatly from the implementation. 
 
