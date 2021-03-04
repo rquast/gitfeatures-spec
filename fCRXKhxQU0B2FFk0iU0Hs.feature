@@ -1,4 +1,4 @@
-Scenario: Life of the average developer
+Scenario: Definition of Ready (DoR)
 
   Given a developer has ACCEPTANCE CRITERIA
   When the developer starts working
