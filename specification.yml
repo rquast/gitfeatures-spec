@@ -17,6 +17,11 @@
               type: map
               title: Working as a developer
               expanded: true
+              tags:
+                - type: text
+                  name: Pain
+                - type: text
+                  name: GitFeatures FTW
               children: []
         - key: qe3REF0C6RxYA9WAeffLC
           type: feature
