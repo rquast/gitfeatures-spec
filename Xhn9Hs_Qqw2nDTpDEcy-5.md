@@ -13,7 +13,7 @@ One day, a major feature in the project was completed and a demo was given to st
 
 Until finally, a small team within the IT department decided to show how things should be done. The head of marketing suggested building a simple, customized, customer management system. Thinking this wouldn't be too hard if done with GitFeatures, the IT team performed a needs analysis by contacting stakeholders and gathering requirements with Example Mapping. They built and released features frequently with continuous integration. They validated the hypothesis for every feature delivered using A/B metrics and feature feedback with Feature Toggles. It was a success, and because it was run under an operational budget, it continued to grow and stay maintained without a premature end. The system rarely had bugs thanks to it being test and behaviour driven. The project was delivered within weeks and cost tens of thousands of dollars.
 
-Now the IT department is the engine room of innovation in the organisation. It has larger operational budgets because management now give the right people ownership of decisions. People became recognised for doing good work - all because they used a tool that helped them with the process for delivering the *right* software.
+Now the IT department is the engine room of innovation. It has larger operational budgets because management now give the right people ownership of decisions. People became recognised for doing good work - all because they used a tool that helped them with the process for delivering the *right* software.
 
 
 #### How to use GitFeatures
