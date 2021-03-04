@@ -5,7 +5,7 @@ GitFeatures is an [**acceptance criteria**](https://en.wikipedia.org/wiki/Accept
 Any product owner/manager, developer, tester, UX designer ([Four Amigos](https://medium.com/@daviddenham07/ux-the-fourth-amigo-63d10f506908)) or for anyone who is involved with analysing software requirements - at any scale.
 
 #### Why?
-The Definition of Ready (DoR) requires good acceptance criteria. The industry often has a problem with this and the role of Product Owner. Let's tell it with a story:
+The Definition of Ready (DoR) requires good acceptance criteria. The industry often has a problem with this and product ownership. Let's tell it with a story:
 
 Once upon a time, the Senior Management Group (SMG) of a big organisation secured capital expenditure funds for improvements. Bob the manager, who recently attended the "Digital Transformation Professionals" conference, was singing praises about social media engagement platforms. "With this money, we could build a game changing way to improve customer relationships.", he thought. Finally, after months of goading his peers, he convinced SMG to fund his idea.
 
