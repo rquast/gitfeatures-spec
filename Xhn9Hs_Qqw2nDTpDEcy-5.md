@@ -2,12 +2,12 @@
 GitFeatures is an [**acceptance criteria**](https://en.wikipedia.org/wiki/Acceptance_testing) management tool for formulating them (with Example Mapping), iterating them (with Git tagging), proving them (with Feature Toggles) and tracing them (with Git history). It does this by helping you with the basic steps of [Specification by Example](https://en.wikipedia.org/wiki/Specification_by_example) (SBE/BDD), [Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery) (CD) and [validation of features](https://en.wikipedia.org/wiki/Software_verification_and_validation#Software_validation).
 
 #### Who is GitFeatures for?
-Any product owner/manager, developer, tester, UX designer ([Four Amigos](https://medium.com/@daviddenham07/ux-the-fourth-amigo-63d10f506908)) or for anyone who is involved with analysing software requirements - at any scale.
+Any product owner/manager, developer, tester, UX designer ([Four Amigos](https://medium.com/@daviddenham07/ux-the-fourth-amigo-63d10f506908)) or for anyone who is involved with analyzing software requirements - at any scale.
 
 #### Why?
-The Definition of Ready (DoR) requires good acceptance criteria. The industry often has a problem with this and product ownership. Let's tell it with a story:
+The Definition of Ready (DoR) requires good acceptance criteria. Many organizations often have a problem with this and understanding product ownership. Let's tell it with a story:
 
-Once upon a time, the Senior Management Group (SMG) of a big organisation secured capital expenditure funds for improvements. Bob the manager, who recently attended the "Digital Transformation Professionals" conference, was singing praises about social media engagement platforms. "With this money, we could build a game changing way to improve customer relationships.", he thought. Finally, after months of goading his peers, he convinced SMG to fund his idea.
+Once upon a time, the Senior Management Group (SMG) of a big organization secured capital expenditure funds for improvements. Bob the manager, who recently attended the "Digital Transformation Professionals" conference, was singing praises about social media engagement platforms. "With this money, we could build a game changing way to improve customer relationships.", he thought. Finally, after months of goading his peers, he convinced SMG to fund his idea.
 
 When the project started, every day, everyone would sit in meeting after meeting for planning and status updates. Like many <s>fake agile</s> hybrid agile projects, they'd spend countless hours on multiple stages of manual tests, await the outcomes of steering committees and record all decisions made in a registry for traceability. They'd dump all of their specifications into an internal, wiki-like documentation system that became hard to maintain. Frequently, specifications would differ greatly from the implementation.
 
