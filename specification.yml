@@ -12,7 +12,12 @@
           type: feature
           title: Living Specification 📖
           expanded: true
-          children: []
+          children:
+            - key: _KRDN_neFPkq3HszWvp2U
+              type: map
+              title: Working as a developer
+              expanded: true
+              children: []
         - key: qe3REF0C6RxYA9WAeffLC
           type: feature
           title: Example Mapping 🧭
