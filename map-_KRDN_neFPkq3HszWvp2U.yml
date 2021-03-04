@@ -1,4 +1,30 @@
 - key: TTZ6qWXj5zkK3KI3EYiXQ
   type: story
-  title: Add your first story here ...
+  title: Adding something to the sprint backlog
   expanded: true
+  children:
+    - key: cYgwY-ixschhK507QkW6R
+      type: rule
+      title: Work must be ready
+      expanded: true
+      children:
+        - key: n8O1Nl9Owp9FUuT7z1so5
+          type: example
+          title: Are there acceptance criteria
+          expanded: true
+          children: []
+        - key: _wIkYXTcoJhBa5tv5aQzf
+          type: example
+          title: Are the ACs SMART?
+          expanded: true
+          children: []
+        - key: kMAEyLr6xHPjKPL5wwv8_
+          type: example
+          title: Do the ACs INVEST?
+          expanded: true
+          children: []
+    - key: yUJOZlO9OOcGj5luNoo6s
+      type: rule
+      title: Everything must be done
+      expanded: true
+      children: []
