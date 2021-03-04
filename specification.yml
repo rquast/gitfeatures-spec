@@ -22,7 +22,11 @@
               type: map
               title: Creating an Example Map
               expanded: true
-              tags: []
+              tags:
+                - type: text
+                  name: Milestone 1
+                - type: text
+                  name: Roland Quast
         - key: uz1NLo4n4xpgJTQOA437S
           type: feature
           title: Acceptance Criteria ✅
