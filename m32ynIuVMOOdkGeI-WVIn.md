@@ -4,6 +4,9 @@ Download the following funny Dilbert image.
 agile-dilbert.png
 ```
 
+```sketch
+```
+
 ### Mermaid Sequence Diagram
 The following diagram is an example of using Mermaid.
 ```mermaid
