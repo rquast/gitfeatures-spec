@@ -1,10 +1,8 @@
+### File Download Example
 Download the following funny Dilbert image.
 
 ```file
 agile-dilbert.png
-```
-
-```sketch
 ```
 
 ### Mermaid Sequence Diagram
@@ -16,4 +14,8 @@ B->> C: Forward query
 Note right of C: Thinking...
 C->> B: Response
 B->> A: Forward response
+```
+
+### Sketch Example
+```sketch
 ```
