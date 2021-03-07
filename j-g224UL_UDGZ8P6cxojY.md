@@ -1,0 +1,1 @@
+Add search functionality with something like this: [https://lunrjs.com/guides/getting_started.html](https://lunrjs.com/guides/getting_started.html)

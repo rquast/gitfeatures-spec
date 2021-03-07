@@ -71,6 +71,11 @@
               title: React Sketch Canvas
               expanded: true
               children: []
+        - key: j-g224UL_UDGZ8P6cxojY
+          type: feature
+          title: Search
+          expanded: true
+          children: []
     - key: haJ9g0-7HpgDN0L-dVn8f
       type: folder
       title: CI/CD 🚚
