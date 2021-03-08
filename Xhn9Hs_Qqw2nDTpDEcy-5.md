@@ -19,4 +19,4 @@ Now the IT department is the engine room of innovation. It has larger operationa
 
 
 #### How to use GitFeatures
-Follow this [quick-start tutorial](https://gitfeatures.com/quick-start). There is also [course content](https://gitfeatures.com/courses) and [training events](https://gitfeatures.com/events) to help you master the art of quality software development.
+Follow these [tutorials](https://gitfeatures.com/tutorials).
