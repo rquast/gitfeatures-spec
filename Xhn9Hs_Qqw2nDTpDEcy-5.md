@@ -2,8 +2,7 @@
 rocket.png
 ```
 
-pgp
-
+test
 ### Helping you deliver the right software.
 GitFeatures is an [**acceptance criteria**](https://en.wikipedia.org/wiki/Acceptance_testing) (AC) and feature toggles management tool for formulating ACs (with Example Mapping), iterating them (with Git tagging), validating features (with feature toggles) and tracing decisions (with Git history). It does this by helping you with the basic steps of [Specification by Example](https://en.wikipedia.org/wiki/Specification_by_example) (SBE/BDD), [Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery) (CD) and [validation of features](https://en.wikipedia.org/wiki/Software_verification_and_validation#Software_validation).
 
