@@ -3,7 +3,7 @@
   title: GitFeatures 🚀
   expanded: true
   children:
-    - key: m32ynIuVMOOdkGeI-WVIn
+    - key: spec-by-example
       type: folder
       title: Specification By Example 🎓
       expanded: true
@@ -76,7 +76,7 @@
           title: Search
           expanded: true
           children: []
-    - key: haJ9g0-7HpgDN0L-dVn8f
+    - key: ci-cd
       type: folder
       title: CI/CD 🚚
       expanded: true
