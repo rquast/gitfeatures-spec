@@ -46,7 +46,7 @@
           title: Persistence
           expanded: true
           children:
-            - key: 90nANIG6Sl5nRgTT_GhEH
+            - key: files-saved-in-browser
               type: map
               title: Files Saved in Browser
               expanded: true
