@@ -23,7 +23,7 @@
                 - type: text
                   name: GitFeatures FTW
               children: []
-        - key: qe3REF0C6RxYA9WAeffLC
+        - key: example-mapping
           type: feature
           title: Example Mapping 🧭
           expanded: true
