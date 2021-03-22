@@ -66,7 +66,7 @@
               title: SVG renderer
               expanded: true
               children: []
-            - key: WA-wN8ieMpNHTt6IUsJ3u
+            - key: sketch-component
               type: map
               title: React Sketch Canvas
               expanded: true
