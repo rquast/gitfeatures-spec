@@ -5,6 +5,6 @@
   children:
     - key: 6tnzZd5E3Xfs6IBzgS4xF
       type: rule
-      title: A user must be able to draw with a stylus
+      title: A user must be able to draw with a stylus test
       expanded: true
       children: []

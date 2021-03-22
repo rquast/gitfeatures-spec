@@ -46,12 +46,12 @@
           title: Persistence
           expanded: true
           children:
-            - key: files-saved-in-browser
+            - key: files-saved-in-browse
               type: map
               title: Files Saved in Browser
               expanded: true
               children: []
-            - key: C6WuaofrPsXTpPHIE0k6V
+            - key: files-saved-in-repo
               type: map
               title: Files Saved in Repo
               expanded: true
